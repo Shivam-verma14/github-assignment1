@@ -1,1 +1,5 @@
 i am file1 for assignment 5 
+
+editing file 1 befor stashing and will come back to edit more later.
+
+edited file2 and commited now will commit it .
